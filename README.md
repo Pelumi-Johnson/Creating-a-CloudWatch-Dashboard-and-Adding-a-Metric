@@ -8,4 +8,4 @@
 </object>
 
 
-[![WannaCry Preview](https://github.com/Pelumi-Johnson/Creating-a-CloudWatch-Dashboard-and-Adding-a-Metric/blob/main/_Creating%20a%20CloudWatch%20Dashboard%20and%20Adding%20a%20Metric.pdf)
+[![Creating a CloudWatch Dashboard and Adding a Metric.pdf](https://github.com/Pelumi-Johnson/Creating-a-CloudWatch-Dashboard-and-Adding-a-Metric/blob/main/_Creating%20a%20CloudWatch%20Dashboard%20and%20Adding%20a%20Metric.pdf)

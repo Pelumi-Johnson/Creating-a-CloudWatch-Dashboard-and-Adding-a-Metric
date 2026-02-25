@@ -8,4 +8,4 @@
 </object>
 
 
-[![WannaCry Preview](https://github.com/Pelumi-Johnson/Wannacry-ransomeware/blob/main/Screenshot%202026-01-15%20215805.png)](https://github.com/Pelumi-Johnson/Wannacry-ransomeware/blob/main/WannaCry%20Ransomeware%20Attack.pdf)
+[![WannaCry Preview](https://github.com/Pelumi-Johnson/Creating-a-CloudWatch-Dashboard-and-Adding-a-Metric/blob/main/_Creating%20a%20CloudWatch%20Dashboard%20and%20Adding%20a%20Metric.pdf)
